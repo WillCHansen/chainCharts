@@ -1,0 +1,19 @@
+{
+  "name": "chaincharts",
+  "version": "1.0.0",
+  "description": "A tool to graph your holdings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillCHansen/chainCharts.git"
+  },
+  "author": "Will and Michael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WillCHansen/chainCharts/issues"
+  },
+  "homepage": "https://github.com/WillCHansen/chainCharts#readme"
+}
